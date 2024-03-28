@@ -111,6 +111,7 @@ SDR
 * https://www.youtube.com/@sn0ren
 * https://www.youtube.com/@SignalPhantom
 * https://www.youtube.com/@Superphish
+* https://www.youtube.com/@jonkraft
 
 Lasers, Plasma, "big electricity"
 * https://www.youtube.com/@Photonvids
