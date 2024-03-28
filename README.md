@@ -121,7 +121,7 @@ Lasers, Plasma, "big electricity"
 * https://www.youtube.com/@jdflyback
 
 
-Misc Science / Eng / Mech and other cool STEM stuff
+Misc Science / Physics / Eng / Mech and other cool STEM stuff
 ---
 * https://www.youtube.com/@AppliedScience
 * https://www.youtube.com/@AlphaPhoenixChannel
