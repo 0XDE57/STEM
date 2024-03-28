@@ -57,7 +57,8 @@ Comp-sci, Programming
 * https://www.youtube.com/@Computerphile
 * https://www.youtube.com/@DavesGarage
 * https://www.youtube.com/@thenewboston
-
+* https://www.youtube.com/@TsodingDaily
+* 
 
 Low level: Reverse Engineering, Hacking, CTF's, Malware Analysis, Embedded
 ---
