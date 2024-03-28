@@ -49,13 +49,14 @@ Linux
 * https://www.youtube.com/@renerebe
 
 
-Comp-sci / low level / c++
+Comp-sci, Programming
 ---
 * https://www.youtube.com/@WhatsACreel
 * https://www.youtube.com/@BenEater
 * https://www.youtube.com/@Bisqwit
 * https://www.youtube.com/@Computerphile
 * https://www.youtube.com/@DavesGarage
+* https://www.youtube.com/@thenewboston
 
 
 Low level: Reverse Engineering, Hacking, CTF's, Malware Analysis, Embedded
