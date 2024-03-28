@@ -119,7 +119,9 @@ Lasers, Plasma, "big electricity"
 * https://www.youtube.com/@styropyro
 * https://www.youtube.com/@franzolielectronics
 * https://www.youtube.com/@jdflyback
-
+  
+Repair
+* https://www.youtube.com/@rossmanngroup
 
 Misc Science / Physics / Eng / Mech and other cool STEM stuff
 ---
