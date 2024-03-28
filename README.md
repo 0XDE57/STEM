@@ -100,7 +100,6 @@ EE & RF
 * https://www.youtube.com/@Afrotechmods
 * https://www.youtube.com/@greatscottlab
 * https://www.youtube.com/@ProtoG42
-* https://www.youtube.com/@Superphish
 * https://www.youtube.com/@Analogzoo
 
 SDR
@@ -110,6 +109,7 @@ SDR
 * https://www.youtube.com/@RFDesignbasics
 * https://www.youtube.com/@sn0ren
 * https://www.youtube.com/@SignalPhantom
+* https://www.youtube.com/@Superphish
 
 Lasers, Plasma, "big electricity"
 * https://www.youtube.com/@Photonvids
