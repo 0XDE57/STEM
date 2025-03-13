@@ -41,9 +41,10 @@ Machine Learning
 * https://www.youtube.com/@technovangelist
 
 
-Networking
+Networking, Homelabbing
 ---
 * https://www.youtube.com/@NetworkChuck
+* https://www.youtube.com/@WunderTechTutorials
 
 
 Linux
@@ -82,13 +83,13 @@ Low level: Reverse Engineering, Hacking, CTF's, Malware Analysis, Embedded
 * https://www.youtube.com/@mattbrwn
 * https://www.youtube.com/@OALABS
 * https://www.youtube.com/@OpenSecurityTraining
+* https://www.youtube.com/@pcsecuritychannel
 * https://www.youtube.com/@RazviOverflow
 * https://www.youtube.com/@retiallc
 * https://www.youtube.com/@S3curityB3ast
 * https://www.youtube.com/@secretclub5082
 * https://www.youtube.com/@stacksmashing
 * https://www.youtube.com/@stryker2k2
-
 
 Security Conferences
 ---
@@ -168,6 +169,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@engineerguyvideo
 * https://www.youtube.com/@ExplosionsAndFire
 * https://www.youtube.com/@ExtractionsAndIre
+* https://www.youtube.com/@HighYield
 * https://www.youtube.com/@HyperspacePirate
 * https://www.youtube.com/@LookingGlassUniverse
 * https://www.youtube.com/@Nighthawkinlight
@@ -175,6 +177,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@SabineHossenfelder
 * https://www.youtube.com/@SteveMould
 * https://www.youtube.com/@TechIngredients
+* https://www.youtube.com/@TechnologyConnections
 * https://www.youtube.com/@thethoughtemporium
 
 
