@@ -11,6 +11,9 @@ Math / Physics
 * https://www.youtube.com/@Vihart
 * https://www.youtube.com/@WelchLabsVideo
 * https://www.youtube.com/@Nemean
+* https://www.youtube.com/@dreznik
+* https://www.youtube.com/@DrTrefor
+* https://www.youtube.com/@PhysicsExplainedVideos
 
 
 Game Dev: math / vectors / shaders / engines / rendering
@@ -71,13 +74,20 @@ Low level: Reverse Engineering, Hacking, CTF's, Malware Analysis, Embedded
 * https://www.youtube.com/@0x6d696368
 * https://www.youtube.com/@lauriewired
 * https://www.youtube.com/@retiallc
-* https://www.youtube.com/@stryker2k287
+* https://www.youtube.com/@stryker2k2
 * https://www.youtube.com/@allthingsreversed
 * https://www.youtube.com/@OALABS
 * https://www.youtube.com/@FlashbackTeam
 * https://www.youtube.com/@GuidedHacking
 * https://www.youtube.com/@S3curityB3ast
 * https://www.youtube.com/@RazviOverflow
+* https://www.youtube.com/@alisaesage
+* https://www.youtube.com/@hasherezade
+* https://www.youtube.com/@MalwareAnalysisForHedgehogs
+* https://www.youtube.com/@maddiestonehacks
+* https://www.youtube.com/@mattbrwn
+* https://www.youtube.com/@secretclub5082
+* https://www.youtube.com/@brycedotco
 
 
 Security Conferences
@@ -91,6 +101,7 @@ Security Conferences
 Security Podcasts
 * https://www.youtube.com/@JackRhysider
 * https://www.youtube.com/@dayzerosec
+* https://www.youtube.com/@criticalthinkingpodcast
 
 
 EE & RF
@@ -103,8 +114,12 @@ EE & RF
 * https://www.youtube.com/@greatscottlab
 * https://www.youtube.com/@ProtoG42
 * https://www.youtube.com/@Analogzoo
+* https://www.youtube.com/@CNLohr
+* https://www.youtube.com/@IMSAIGuy
+* https://www.youtube.com/@MarshallBrunerRF
+* https://www.youtube.com/@TheSignalPath
 
-SDR
+SDR, HAM, LoRa
 * https://www.youtube.com/@cemaxecuter7783
 * https://www.youtube.com/@peterfairlie2296
 * https://www.youtube.com/@TechMindsOfficial
@@ -113,6 +128,8 @@ SDR
 * https://www.youtube.com/@SignalPhantom
 * https://www.youtube.com/@Superphish
 * https://www.youtube.com/@jonkraft
+* https://www.youtube.com/@TheNotaRubicon
+* https://www.youtube.com/@AndreasSpiess
 
 Lasers, Plasma, "big electricity"
 * https://www.youtube.com/@Photonvids
@@ -120,11 +137,16 @@ Lasers, Plasma, "big electricity"
 * https://www.youtube.com/@styropyro
 * https://www.youtube.com/@franzolielectronics
 * https://www.youtube.com/@jdflyback
+* https://www.youtube.com/@LightningOnDemand
   
 Repair
 * https://www.youtube.com/@rossmanngroup
+* https://www.youtube.com/@dosdude1
+* https://www.youtube.com/@northwestrepair
+* https://www.youtube.com/@NorthridgeFix
+* https://www.youtube.com/@MendItMark
 
-Misc Science / Physics / Eng / Mech and other cool STEM stuff
+General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 ---
 * https://www.youtube.com/@AppliedScience
 * https://www.youtube.com/@AlphaPhoenixChannel
@@ -136,9 +158,15 @@ Misc Science / Physics / Eng / Mech and other cool STEM stuff
 * https://www.youtube.com/@SteveMould
 * https://www.youtube.com/@SabineHossenfelder
 * https://www.youtube.com/@DrBrianKeating
-* https://www.youtube.com/@Thunderf00t
 * https://www.youtube.com/@LookingGlassUniverse
 * https://www.youtube.com/@BackMacSci
+* https://www.youtube.com/@cylosgarage
+* https://www.youtube.com/@engineerguyvideo
+* https://www.youtube.com/@ExplosionsAndFire
+* https://www.youtube.com/@ExtractionsAndIre
+* https://www.youtube.com/@HyperspacePirate
+* https://www.youtube.com/@TechIngredients
+* https://www.youtube.com/@NileRed
 
 
 Space
@@ -159,7 +187,10 @@ Music Theory and music + math + programming
 * https://www.youtube.com/@12tone
 * https://www.youtube.com/@AdamNeely
 * https://www.youtube.com/@FormantMath
+* https://www.youtube.com/@mbcodeandsound
 
 
 ---
+TODO: needs better categorization. some channels cover multiple topics that dont fit strictly into one category.
+
 This is my personal list, but see also: https://github.com/JoseDeFreitas/awesome-youtubers
