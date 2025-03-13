@@ -144,10 +144,15 @@ Lasers, Plasma, "big electricity"
   
 Repair
 * https://www.youtube.com/@dosdude1
+* https://www.youtube.com/@electronicsrepairschool
+* https://www.youtube.com/@LearnElectronicsRepair
 * https://www.youtube.com/@MendItMark
 * https://www.youtube.com/@NorthridgeFix
 * https://www.youtube.com/@northwestrepair
 * https://www.youtube.com/@rossmanngroup
+* https://www.youtube.com/@StezStixFix
+* https://www.youtube.com/@TheCod3r
+* https://www.youtube.com/@Tronicsfix
 
 
 General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
