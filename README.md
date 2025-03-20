@@ -113,6 +113,7 @@ EE & RF
 * https://www.youtube.com/@EEVblog
 * https://www.youtube.com/@greatscottlab
 * https://www.youtube.com/@IMSAIGuy
+* https://www.youtube.com/@Jeija
 * https://www.youtube.com/@MachiningandMicrowaves
 * https://www.youtube.com/@MarshallBrunerRF
 * https://www.youtube.com/@mikeselectricstuff
