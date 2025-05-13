@@ -148,8 +148,11 @@ Lasers, Plasma, "big electricity"
 Repair
 * https://www.youtube.com/@dosdude1
 * https://www.youtube.com/@electronicsrepairschool
+* https://www.youtube.com/@GetRefurbed
+* https://www.youtube.com/@itsconsolefix
 * https://www.youtube.com/@LearnElectronicsRepair
 * https://www.youtube.com/@MendItMark
+* https://www.youtube.com/@MicroMageRepair
 * https://www.youtube.com/@NorthridgeFix
 * https://www.youtube.com/@northwestrepair
 * https://www.youtube.com/@rossmanngroup
