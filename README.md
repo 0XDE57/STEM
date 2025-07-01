@@ -219,6 +219,7 @@ Music Theory and music + math + programming
 * https://www.youtube.com/@marcevanstein
 * https://www.youtube.com/@mbcodeandsound
 * https://www.youtube.com/@MoritzKlein0
+* https://www.youtube.com/@Tantacrul
 * https://www.youtube.com/@tl880linux
 
 
