@@ -8,10 +8,12 @@ Math / Physics
 * https://www.youtube.com/@Mathologer
 * https://www.youtube.com/@MrPSolver
 * https://www.youtube.com/@Nemean
+* https://www.youtube.com/@NilsBerglund
 * https://www.youtube.com/@Numb3rTr33
 * https://www.youtube.com/@numberphile
 * https://www.youtube.com/@PhysicsExplainedVideos
 * https://www.youtube.com/@RichBehiel
+* https://www.youtube.com/@standupmaths
 * https://www.youtube.com/@Vihart
 * https://www.youtube.com/@WelchLabsVideo
 
@@ -69,6 +71,7 @@ Low level: Reverse Engineering, Hacking, CTF's, Malware Analysis, Embedded
 * https://www.youtube.com/@0x6d696368
 * https://www.youtube.com/@alisaesage
 * https://www.youtube.com/@allthingsreversed
+* https://www.youtube.com/@apalrdsadventures
 * https://www.youtube.com/@brycedotco
 * https://www.youtube.com/@davidbombal
 * https://www.youtube.com/@FlashbackTeam
@@ -85,6 +88,7 @@ Low level: Reverse Engineering, Hacking, CTF's, Malware Analysis, Embedded
 * https://www.youtube.com/@OpenSecurityTraining
 * https://www.youtube.com/@pcsecuritychannel
 * https://www.youtube.com/@RazviOverflow
+* https://www.youtube.com/@RECESSIM
 * https://www.youtube.com/@retiallc
 * https://www.youtube.com/@S3curityB3ast
 * https://www.youtube.com/@secretclub5082
@@ -111,13 +115,17 @@ EE & RF
 * https://www.youtube.com/@Analogzoo
 * https://www.youtube.com/@CNLohr
 * https://www.youtube.com/@EEVblog
+* https://www.youtube.com/@GeerlingEngineering
 * https://www.youtube.com/@greatscottlab
 * https://www.youtube.com/@IMSAIGuy
 * https://www.youtube.com/@Jeija
+* https://www.youtube.com/@JeffGeerling
+* https://www.youtube.com/@lelabodemichel5162
 * https://www.youtube.com/@MachiningandMicrowaves
 * https://www.youtube.com/@MarshallBrunerRF
 * https://www.youtube.com/@mikeselectricstuff
 * https://www.youtube.com/@ProtoG42
+* https://www.youtube.com/@TheBroadcastEngineer
 * https://www.youtube.com/@TheSignalPath
 * https://www.youtube.com/@w2aew
 
@@ -196,6 +204,10 @@ Space
 * https://www.youtube.com/@scottmanley
 * https://www.youtube.com/@sixtysymbols
 
+Rockets!
+---
+* https://www.youtube.com/@BPSspace
+* https://www.youtube.com/@LafayetteSystems
 
 Music Theory and music + math + programming
 ---
@@ -210,6 +222,6 @@ Music Theory and music + math + programming
 
 
 ---
-TODO: needs better categorization. some channels cover multiple topics that dont fit strictly into one category.
+TODO: needs better categorization. many channels cover multiple topics and dont fit strictly into one category.
 
 This is my personal list, but see also: https://github.com/JoseDeFreitas/awesome-youtubers
