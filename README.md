@@ -115,7 +115,9 @@ EE & RF
 * https://www.youtube.com/@Afrotechmods
 * https://www.youtube.com/@Analogzoo
 * https://www.youtube.com/@CNLohr
+* https://www.youtube.com/@CuriousMarc
 * https://www.youtube.com/@EEVblog
+* https://www.youtube.com/@GearAcquisitionSyndrome
 * https://www.youtube.com/@GeerlingEngineering
 * https://www.youtube.com/@greatscottlab
 * https://www.youtube.com/@IMSAIGuy
@@ -126,6 +128,7 @@ EE & RF
 * https://www.youtube.com/@MarshallBrunerRF
 * https://www.youtube.com/@mikeselectricstuff
 * https://www.youtube.com/@ProtoG42
+* https://www.youtube.com/@reps
 * https://www.youtube.com/@TheBroadcastEngineer
 * https://www.youtube.com/@TheSignalPath
 * https://www.youtube.com/@w2aew
