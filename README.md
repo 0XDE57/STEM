@@ -85,6 +85,7 @@ Low level: Reverse Engineering, Hacking, CTF's, Malware Analysis, Embedded
 * https://www.youtube.com/@maddiestonehacks
 * https://www.youtube.com/@MalwareAnalysisForHedgehogs
 * https://www.youtube.com/@mattbrwn
+* https://www.youtube.com/@nathanbaggs
 * https://www.youtube.com/@OALABS
 * https://www.youtube.com/@OpenSecurityTraining
 * https://www.youtube.com/@pcsecuritychannel
