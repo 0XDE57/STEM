@@ -190,8 +190,10 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@HighYield
 * https://www.youtube.com/@HyperspacePirate
 * https://www.youtube.com/@LookingGlassUniverse
+* https://www.youtube.com/@Marbslab
 * https://www.youtube.com/@Nighthawkinlight
 * https://www.youtube.com/@NileRed
+* https://www.youtube.com/@project-326
 * https://www.youtube.com/@projectsinflight
 * https://www.youtube.com/@SabineHossenfelder
 * https://www.youtube.com/@SteveMould
