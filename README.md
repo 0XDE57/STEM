@@ -168,6 +168,7 @@ Repair
 * https://www.youtube.com/@MicroMageRepair
 * https://www.youtube.com/@NorthridgeFix
 * https://www.youtube.com/@northwestrepair
+* https://www.youtube.com/@dellpartspeople
 * https://www.youtube.com/@rossmanngroup
 * https://www.youtube.com/@StezStixFix
 * https://www.youtube.com/@TheCod3r
