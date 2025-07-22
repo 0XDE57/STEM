@@ -195,6 +195,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@Nighthawkinlight
 * https://www.youtube.com/@NileRed
 * https://www.youtube.com/@project-326
+* https://www.youtube.com/@Project-Air
 * https://www.youtube.com/@projectsinflight
 * https://www.youtube.com/@SabineHossenfelder
 * https://www.youtube.com/@SteveMould
