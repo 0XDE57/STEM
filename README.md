@@ -223,6 +223,7 @@ Music Theory and music + math + programming
 ---
 * https://www.youtube.com/@12tone
 * https://www.youtube.com/@AdamNeely
+* https://www.youtube.com/@BennJordan
 * https://www.youtube.com/@FormantMath
 * https://www.youtube.com/@jerobeamfenderson1
 * https://www.youtube.com/@marcevanstein
