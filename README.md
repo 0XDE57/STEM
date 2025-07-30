@@ -15,6 +15,7 @@ Math / Physics
 * https://www.youtube.com/@PhysicsExplainedVideos
 * https://www.youtube.com/@RichBehiel
 * https://www.youtube.com/@standupmaths
+* https://www.youtube.com/@twoswap
 * https://www.youtube.com/@Vihart
 * https://www.youtube.com/@WelchLabsVideo
 
