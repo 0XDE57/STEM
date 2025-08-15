@@ -200,6 +200,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@Project-Air
 * https://www.youtube.com/@projectsinflight
 * https://www.youtube.com/@SabineHossenfelder
+* https://www.youtube.com/@SamZeloof
 * https://www.youtube.com/@SteveMould
 * https://www.youtube.com/@TechIngredients
 * https://www.youtube.com/@TechnologyConnections
