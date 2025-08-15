@@ -190,6 +190,7 @@ General/Misc: Science / Physics / Eng / Mech / Chem and other cool stuff
 * https://www.youtube.com/@ExplosionsAndFire
 * https://www.youtube.com/@ExtractionsAndIre
 * https://www.youtube.com/@HighYield
+* https://www.youtube.com/@HuygensOptics
 * https://www.youtube.com/@HyperspacePirate
 * https://www.youtube.com/@LookingGlassUniverse
 * https://www.youtube.com/@Marbslab
